@@ -53,6 +53,11 @@ h3{
   left: 100px;
 }
 
+.mountain{
+  height: 60%;
+  width: 60%;
+}
+
 .profile{
   margin: 50px auto;
   width: 50%;
